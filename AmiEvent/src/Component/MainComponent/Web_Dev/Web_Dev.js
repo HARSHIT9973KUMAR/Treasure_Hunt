@@ -203,11 +203,9 @@ export default function Home() {
               <h2>Schedule of the event</h2>
             </div>
             <div className="divider" />
-            <p>
-              There are many variations of passages of Lorem Ipsum available, but
-              the majority have suffered alteration in some form, by injected
-              humour, or randomised words which don't look even
-            </p>
+          
+       
+          
             <div className="col-lg-4 col-md-4 col-sm-12 board54 p-5">
               <p>Round 1 starts at 10am on 7th of August.</p>
             </div>
